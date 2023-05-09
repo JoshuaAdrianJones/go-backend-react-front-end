@@ -1,2 +1,5 @@
 # go-backend-react-front-end
-toy app to demo serving an api endpoint and then consuming that endpoint in react.
+
+The idea is that the golang server can provide an API endpoint and the react-ts frontend can fetch that data.
+
+See Makefile for general commands.
